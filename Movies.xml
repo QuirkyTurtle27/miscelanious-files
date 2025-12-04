@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+    <movie>
+        <movieTitle>The Matrix</movieTitle>
+        <profit>463.5</profit>
+        <movieGenre>Science Fiction</movieGenre>
+        <releaseDate>1999-03-31</releaseDate>
+        <platform>Cinema</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Inception</movieTitle>
+        <profit>829.9</profit>
+        <movieGenre>Action</movieGenre>
+        <releaseDate>2010-07-16</releaseDate>
+        <platform>Streaming</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Interstellar</movieTitle>
+        <profit>701.7</profit>
+        <movieGenre>Drama</movieGenre>
+        <releaseDate>2014-11-07</releaseDate>
+        <platform>Streaming</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Avatar</movieTitle>
+        <profit>2847.0</profit>
+        <movieGenre>Fantasy</movieGenre>
+        <releaseDate>2009-12-18</releaseDate>
+        <platform>Cinema</platform>
+    </movie>
+</movies>
