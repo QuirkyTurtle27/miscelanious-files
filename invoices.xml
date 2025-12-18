@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<invoices>
+    <invoice>
+        <customerCode>1234567890123</customerCode>
+        <invoiceType>Utilities</invoiceType>
+        <amount>250.75</amount>
+        <invoiceDate>2024-01-10</invoiceDate>
+    </invoice>
+
+    <invoice>
+        <customerCode>9876543210987</customerCode>
+        <invoiceType>Services</invoiceType>
+        <amount>1200.50</amount>
+        <invoiceDate>2024-02-05</invoiceDate>
+    </invoice>
+
+    <invoice>
+        <customerCode>1112223334445</customerCode>
+        <invoiceType>Products</invoiceType>
+        <amount>499.99</amount>
+        <invoiceDate>2024-03-12</invoiceDate>
+    </invoice>
+
+    <invoice>
+        <customerCode>5556667778889</customerCode>
+        <invoiceType>Maintenance</invoiceType>
+        <amount>800.00</amount>
+        <invoiceDate>2024-04-01</invoiceDate>
+    </invoice>
+</invoices>
